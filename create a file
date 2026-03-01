@@ -1,0 +1,6 @@
+CREATE TABLE STUDENT (
+    student_id NUMBER,
+    name VARCHAR2(50),
+    age NUMBER,
+    marks NUMBER
+);
